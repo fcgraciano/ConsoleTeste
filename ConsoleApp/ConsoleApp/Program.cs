@@ -13,5 +13,15 @@ namespace ConsoleApp
         {
 
         }
+
+        private void SegundaFuncao()
+        {
+
+        }
+
+        private void TerceiroFuncao()
+        {
+
+        }
     }
 }
