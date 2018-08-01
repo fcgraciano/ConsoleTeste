@@ -8,5 +8,10 @@ namespace ConsoleApp
         {
             Console.WriteLine("Hello World!");
         }
+
+        private void PrimeiraFuncao()
+        {
+
+        }
     }
 }
