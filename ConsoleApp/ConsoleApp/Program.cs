@@ -18,5 +18,10 @@ namespace ConsoleApp
         {
 
         }
+
+        private void TerceiroFuncao()
+        {
+
+        }
     }
 }
